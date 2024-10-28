@@ -75,7 +75,7 @@ function generate() {
 
     // Create the announcement text with proper line breaks
     const announcementLines = [
-        "**📜 PENGUMUMAN 📜**",
+        "*📜 PENGUMUMAN 📜*",
         "",
         "Shalom semua.",
         `Besok, Minggu ${tanggal}:`,
