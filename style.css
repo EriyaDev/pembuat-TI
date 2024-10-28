@@ -29,3 +29,7 @@ body{
     display: flex;
     flex-direction: column;
 }
+
+.hasil p{
+    text-align: center;
+}
